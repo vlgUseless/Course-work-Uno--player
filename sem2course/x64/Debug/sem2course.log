@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\gaarv\source\repos\sem2course\game\uno_game.h(207): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  sem2course.vcxproj -> C:\Users\gaarv\source\repos\sem2course\x64\Debug\sem2course.exe
